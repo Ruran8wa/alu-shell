@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#BASH script that displays all working processes
+
+ps -faux
